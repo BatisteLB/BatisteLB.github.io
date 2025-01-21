@@ -27,3 +27,4 @@ You can learn more about me on my [CV](http://batistelb.github.io/files/cv-new.p
 
 ## News
 * ~~PhD position on Private and Byzantine-Robust Federated Learning [here](http://batistelb.github.io/files/PhD_federated_privacy_robustness.pdf).~~ <sub><sup><span style="color:grey">13-05-2024</span></sup></sub>
+* Les [BD du frangin](https://www.instagram.com/virgo_lebars/), le [restaurant de la mamma](https://www.instagram.com/avemariaparis/) et les [photos du beau-père](https://www.rrrdiaz.com/).
