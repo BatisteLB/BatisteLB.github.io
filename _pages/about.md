@@ -22,7 +22,6 @@ You can learn more about me on my [CV](http://batistelb.github.io/files/cv-new.p
 * Decentralized Optimization, Federated Learning
 * Conformal Prediction
 * Machine Learning with Graphs
-* Robust Statistics
 * Privacy in Machine Learning
 
 ## News
