@@ -7,5 +7,5 @@ date: 2024-7-25
 excerpt: ''
 pubtype: 'conference'
 venue: 'ICML 2024'
-author: 'B. Le Bars, A. Bellet, M. Tommasi, K. Scaman, G. Neglia'
+author: 'B. Le Bars, A. Bellet, M. Tommasi, K. Scaman and G. Neglia'
 ---
