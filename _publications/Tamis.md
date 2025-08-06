@@ -7,5 +7,5 @@ date: 2025-9-15
 excerpt: ''
 pubtype: 'conference'
 venue: 'ECML-PKDD 2025'
-author: 'P. Andey, B. Le Bars, M. Tommasi'
+author: 'P. Andey, B. Le Bars and M. Tommasi'
 ---
