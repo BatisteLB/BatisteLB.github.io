@@ -7,5 +7,5 @@ date: 2025-7-15
 excerpt: ''
 pubtype: 'conference'
 venue: 'ICML 2025'
-author: 'B. Le Bars, P. Humbert'
+author: 'B. Le Bars and P. Humbert'
 ---
